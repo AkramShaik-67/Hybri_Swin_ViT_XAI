@@ -14,9 +14,7 @@ visual features from Swin Transformer with global token-based
 representations from ViT can support deepfake detection, while providing
 visual evidence that helps users inspect model decisions.
 
-> **Important:** XAI heatmaps are image-level evidence maps, not
-> pixel-level ground-truth masks of manipulated regions. Model
-> performance must be measured on the test set; no accuracy or other
+>  Model performance must be measured on the test set; no accuracy or other
 > result is claimed in this README.
 
 ## Project Title
